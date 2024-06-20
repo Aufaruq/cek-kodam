@@ -4,7 +4,7 @@ logic Aufa
 database logic Aufa
 
 preview tampilan website
-![1](preview.png)
+![1](prev.png)
 
 database
 ![db](db.png)
